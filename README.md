@@ -8,25 +8,30 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.%20CSE-6th%20Semester-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-3.55%20%2F%204.00-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Daffodil%20International%20University-2024–Present-4C1D95?style=for-the-badge&logo=university&logoColor=white" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Dhaka,%20Bangladesh-1E1B4B?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="mailto:mdmrinmoy983@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mdmrinmoy983@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://discord.com/users/726822238380097546">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/Mohammad-Mrinmoy">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Mrinmoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/mohammad.mrinmoy.7">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/mrinamoto">
-    <img src="https://img.shields.io/badge/GitHub-mrinamoto-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.instagram.com/the_minamoto/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mrmrinmoy167@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC4y43w_oT4rqVx4Qw4gyALg">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -57,7 +62,11 @@ Beyond the technical, I have developed strong capabilities in documentation, con
 → Higher Studies Abroad (Research-Focused Programs)
 → Technical Writing & Documentation Roles
 ```
-
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Sc.%20CSE-6th%20Semester-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-3.55%20%2F%204.00-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Daffodil%20International%20University-2024–Present-4C1D95?style=for-the-badge&logo=university&logoColor=white" />
+</p>
 ---
 
 ## ◈ Tech Stack
