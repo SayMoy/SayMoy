@@ -1,38 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ann%20Noor%20Muhammad%20Mrinmoy&fontSize=40&fontAlignY=35&desc=Computer%20Engineer%20%E2%80%A2%20Content%20Creator%20%E2%80%A2%20Research%20Aspirant&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ann%20Noor%20Muhammad%20Mrinmoy&fontSize=40&fontAlignY=35&desc=CSE%20Undergraduate%20%E2%80%A2%20AI%20Enthusiastic%20%E2%80%A2%20Research%20Aspirant&descAlignY=55&descSize=16&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=CSE+Undergraduate+%40+Daffodil+International+University;Aspiring+AI+%26+Software+Engineer;C+%7C+DSA+%7C+SQL+%7C+Prompt+Engineering;Building+Intelligent+Systems+%26+Solutions;Open+to+Internships+%26+Research+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=CSE+Undergraduate+%40+Daffodil+International+University;Aspiring+AI+Researcher+%26+Technology+Enthusiast;Video+Editor+%7C+Tech+Explorer+%7C+Creative+Designer;Intelligent+Systems+%26+Beautifully+designed;Open+to+Internships+%26+Research+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Dhaka,%20Bangladesh-1E1B4B?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/RRnhD5NAs">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mohammad.mrinmoy.7">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/the_minamoto/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mrmrinmoy167@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC4y43w_oT4rqVx4Qw4gyALg">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://discord.gg/RRnhD5NAs"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white" height="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mohammad.mrinmoy.7"><img src="https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white" height="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/the_minamoto/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" height="35" /></a>&nbsp;&nbsp;
+  <a href="mailto:mrmrinmoy167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" height="35" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC4y43w_oT4rqVx4Qw4gyALg"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white" height="35" /></a>
 </p>
 
 <p align="center">
@@ -67,73 +49,69 @@ Beyond the technical, I have developed strong capabilities in documentation, con
   <img src="https://img.shields.io/badge/CGPA-3.55%20%2F%204.00-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Daffodil%20International%20University-2024–Present-4C1D95?style=for-the-badge&logo=university&logoColor=white" />
 </p>
----
 
-## ◈ Tech Stack
+## ◈ Languages and Tools
 
 <p align="center">
-  <strong>Languages</strong>
+  <strong>My Strengths</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,sql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,html,css,java&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Frontend & Creative Tooling</strong>
+  <strong>Daily Tools</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,ai&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=discord,eclipse,github,pycharm,vscode,visualstudio,figma,ps,pr,gmail,ai&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Backend & Databases</strong>
+  <strong>Currently Improving</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,aiscript,mysql,nodejs,cloudflare,sqlite,php&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Cloud, DevOps & Tooling</strong>
+  <strong>Future Skills</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,markdown&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ae,blender,unity,unreal,au&theme=dark" />
   </a>
 </p>
 
 <p align="center">
+  <strong>Other Useful Skills</strong>
+</p>
+<p align="center">
+  <!-- Office & Productivity -->
   <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Organization-2072AF?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  
+  <!-- Creative & Design -->
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-FF6C37?style=flat-square&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video%20Editing-E60023?style=flat-square&logo=youtube&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Tools-412991?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-007ACC?style=flat-square&logo=googlemarketingplatform&logoColor=white" />
+  <!-- AI & Marketing -->
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Workflow%20Automation-6D28D9?style=flat-square&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content%20Writing-4EA94B?style=flat-square&logo=google-docs&logoColor=white" />
 </p>
-
----
-
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Prompt Engineering** | ██████████ Advanced | Crafting structured prompts for LLMs; chain-of-thought, few-shot, role-based prompting |
-| **AI Workflow Automation** | ████████░░ Proficient | Integrating AI tools into personal and academic productivity pipelines |
-| **Research & Information Analysis** | ████████░░ Proficient | Academic literature review, structured synthesis, data-driven reporting |
-| **Natural Language Processing (Concepts)** | ██████░░░░ Developing | Tokenisation, embeddings, transformer architecture fundamentals |
-| **Machine Learning Foundations** | █████░░░░░ Learning | Supervised learning, model evaluation, bias-variance tradeoff |
-| **Data Structures for AI** | ████████░░ Proficient | Arrays, linked lists, trees, graphs as applied to algorithmic AI problems |
-| **SQL & Structured Data** | ███████░░░ Proficient | Relational schema design, joins, subqueries, data persistence strategies |
-
-</div>
-
----
+<br />
 
 ## ◈ Featured Projects
 
@@ -309,87 +287,6 @@ Coordinated logistical operations for the 12th Annual Convocation and Daffodil F
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrinamoto&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinamoto&bg_color=0D0B1A&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Graph%20—%20Ann%20Noor%20Muhammad%20Mrinmoy" />
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrinamoto/mrinamoto/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## ◈ Current Focus
-
-```yaml
-developer:
-  name: Ann Noor Muhammad Mrinmoy
-  alias: mrinamoto
-  location: Dhaka, Bangladesh
-  university: Daffodil International University
-  program: B.Sc. in Computer Science & Engineering
-  semester: 6th
-
-currently_learning:
-  - Python for AI and Machine Learning foundations
-  - Advanced Data Structures and Algorithm design
-  - Object-Oriented Programming principles
-  - Web development fundamentals (HTML, CSS, JavaScript)
-  - Database architecture and query optimisation
-
-currently_building:
-  - AI-assisted academic productivity tools
-  - Algorithmic problem-solving portfolio
-  - Personal knowledge management system
-  - Technical writing and documentation repository
-
-currently_exploring:
-  - Large Language Model architectures and capabilities
-  - Retrieval-Augmented Generation (RAG) patterns
-  - Computer Vision fundamentals
-  - Open source contribution workflows
-  - Research paper reading habits in AI/ML
-
-open_to:
-  - Software engineering internships (Dhaka-based or remote)
-  - AI/ML research assistant roles
-  - Open source collaborations
-  - Technical mentorship and peer learning
-  - Higher studies abroad (research-focused MS programs)
-
-core_values:
-  - continuous_learning: true
-  - intellectual_honesty: true
-  - creative_problem_solving: true
-  - collaboration_first: true
-```
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="mailto:mdmrinmoy983@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/Mohammad-Mrinmoy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mrinamoto">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
