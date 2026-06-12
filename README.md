@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/726822238380097546">
+  <a href="https://discord.gg/RRnhD5NAs">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/mohammad.mrinmoy.7">
@@ -24,14 +24,14 @@
   <a href="https://www.instagram.com/the_minamoto/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:mrmrinmoy167@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UC4y43w_oT4rqVx4Qw4gyALg">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 </p>
 
